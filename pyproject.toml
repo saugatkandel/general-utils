@@ -3,7 +3,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "general-utils"
+name = "general_utils"
 authors = [{ name = "Saugat Kandel" }]
 description = "Some general utilities"
 readme = "README.md"
